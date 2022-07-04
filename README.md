@@ -9,9 +9,9 @@ This repository contains the source code of TOKOCAK, an example of getting data 
 Here is a demo of the application.
 
 
-![Logo](https://raw.githubusercontent.com/fadhilahkholiq/flutter-dummyjson/main/1.png)
+![Logo](https://github.com/Rozaq08/Tokoarrozaq/blob/main/2.png)
 
-![Logo](https://raw.githubusercontent.com/fadhilahkholiq/flutter-dummyjson/main/2.png)
+![Logo](https://github.com/Rozaq08/Tokoarrozaq/blob/main/2.png)
 
 
 
