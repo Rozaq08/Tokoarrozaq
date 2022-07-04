@@ -9,7 +9,7 @@ This repository contains the source code of TOKO Ar Rozaq, an example of getting
 Here is a demo of the application.
 
 
-![Logo](https://github.com/Rozaq08/Tokoarrozaq/blob/main/2.png)
+![Logo](https://github.com/Rozaq08/Tokoarrozaq/blob/main/1.png)
 
 ![Logo](https://github.com/Rozaq08/Tokoarrozaq/blob/main/2.png)
 
