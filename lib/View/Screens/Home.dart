@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: const Text(
-          'Toko Ar-rozaq',
+          'JURAGAN IT IBAL',
           style: TextStyle(color: Colors.black, fontWeight: FontWeight.w600),
         ),
       ),
@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
             height: 140,
             decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage('assets/bg.png'),
+                    image: AssetImage('assets/banner.jpg'),
                     fit: BoxFit.contain)),
           ),
           const SizedBox(
